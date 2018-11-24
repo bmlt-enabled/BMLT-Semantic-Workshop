@@ -1,3 +1,6 @@
+# Deprecated
+This code has been moved to the BMLT-Root-Server repository: https://github.com/bmlt-enabled/BMLT-Root-Server/tree/master/main_server/semantic
+
 # README #
 
 This is a project to create a "living document," so to speak, for the [BMLT's semantic capabilities](http://bmlt.magshare.net/semantic/).
